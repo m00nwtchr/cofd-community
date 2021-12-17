@@ -13,7 +13,7 @@ The prey is caught in a nightmare of dulled reflexes and sluggish time, the worl
 
 This Facet can be used against a single prey that the Uratha can perceive.
 
-### Roll Results
+#### Roll Results
 
 **Dramatic Failure:** The Uratha suffers the Exhausted Condition.\
 **Failure:** The Facet fails.\
@@ -52,7 +52,7 @@ No matter the prey's efforts, they're never ready for the wolves at the door.
 **Action:** Instant\
 **Duration:** 1 week
 
-### Roll Results
+#### Roll Results
 
 **Dramatic Failure:** The prey gains the 8-again quality on the first Initiative roll they make in a combat facing the Uratha during the next week.\
 **Failure:** The Facet fails.\

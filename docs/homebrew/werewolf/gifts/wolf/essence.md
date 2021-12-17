@@ -47,7 +47,7 @@ The Uratha with this Facet can gaze into the channels of Essence that gouge thro
 
 The werewolf may use Essence Sight against any prey that she can see.
 
-### Roll Results
+#### Roll Results
 
 **Dramatic Failure:** The Facet fails and the Uratha expends an additional point of Essence, which literally bleeds out of his eyes as visible, oozing ephemera before it evaporates.\
 **Failure:** The Facet fails to take effect.\

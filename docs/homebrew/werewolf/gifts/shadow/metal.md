@@ -10,7 +10,7 @@ Shining lustre stains before the hungry tongue of rust; sturdy resilience falter
 **Action:** Instant\
 **Duration:** 1 month This Facet can be used against a character whom the Uratha touches.\
 
-### Roll Results
+#### Roll Results
 
 **Dramatic Failure:** The Uratha gains the Ban Condition. She feels an extremely strong aversion to damaging or destroying anything made of or including metal in its construction.\
 **Failure:** The Facet fails.\
@@ -28,7 +28,7 @@ The shining hue of precious gold and silver has long bent humanity to the will o
 
 This Facet can be used against a character with whom the Uratha makes an exchange or offers a gift to of a precious metal such as gold, silver, or platinum.
 
-### Roll Results
+#### Roll Results
 
 **Dramatic Failure:** The Uratha gains the Ban Condition. She must hoard shiny things, regardless of their actual value, for the Condition’s duration.\
 **Failure:** The Facet fails.\

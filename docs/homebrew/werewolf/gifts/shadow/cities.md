@@ -33,7 +33,7 @@ Though surrounded by his fellows, the prey finds no solace – only loneliness a
 
 The werewolf may use Faceless Crowd against any prey she can perceive who is in a crowded area.
 
-### Roll Results
+#### Roll Results
 
 **Dramatic Failure:** The werewolf gains the Ban Condition. She must wear as featureless a mask as she can acquire for the Condition’s duration.\
 **Failure:** The Facet does not take effect.\
