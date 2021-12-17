@@ -7,6 +7,8 @@
 ## Shadow Gifts
 
 - [Gift of Cities](./gifts/shadow/cities.md)
+- [Gift of Metal](./gifts/shadow/metal.md)
+- [Gift of Time](./gifts/shadow/time.md)
 
 ## Wolf Gifts
 
