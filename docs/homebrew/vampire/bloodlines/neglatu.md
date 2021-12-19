@@ -2,7 +2,7 @@
 
 [Source](http://theonyxpath.com/lonely-together/)
 
-The Neglatu rise alone from the dead. Unlike most Kindred, they do not wake to a sire’s welcome. As result, they never accept a moment alone. They surround themselves with other Damned corpses. They create entire nests of revenants to keep them company, and to defend them from those Kindred intolerant of “reckless” Embraces.
+The Neglatu rise alone from the dead. Unlike most Kindred, they do not wake to a sire’s welcome. As result, they never accept a moment alone. They surround themselves with other Damned corpses. They create entire nests of revenants to keep them company, and to defend them from those Kindred intolerant of "reckless" Embraces.
 
 Many Neglatu go through their Requiems never knowing the truth of the Embrace; they believe revenant awakening is the only way to create vampires. The revenant Embrace is natural to the Neglatu, so much so that they usually continue to eschew Kindred tradition even once “educated”.
 
