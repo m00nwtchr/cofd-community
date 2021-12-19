@@ -38,11 +38,11 @@ Tonight, they act as social predators and urban monsters, cowing the competition
 
 The gift of Kerberos is an attunement with the Beast, a Predatory Aura honed to a fine, hard edge. All Kerberos gain The Hound of Hell advantage, and can purchase three Merits, the Three Heads of Kerberos to reflect the three Aspects of the Beast: Competitive, Monstrous, Seductive.
 
-## The Hound of Hell
+### The Hound of Hell
 
 This advantage, this birthright, gives the Kerberos an edge in any interactions with the Beast. First off, instead of +2, she gains her Blood Potency as a bonus any time she’s pursuing her Beast’s aspect for the scene she’s used Predatory Aura. Secondly, she adds any relevant Three Heads of Kerberos Merit to her dice pool for lashing out.
 
-## Merit: The Three Heads of Kerberos (• to •••••; Style)
+### Merit: The Three Heads of Kerberos (• to •••••; Style)
 
 **Prerequisite:** Kerberos
 
