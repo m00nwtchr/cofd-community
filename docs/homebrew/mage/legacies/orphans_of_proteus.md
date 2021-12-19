@@ -42,12 +42,14 @@ The Shifter’s continuing attunement to their more primal nature grants them th
 
 ### **Third:** Mercurial Form
 
-**Prerequisite:** Life 3. In addition to the Animal Ken 3 requirement from the previous Attainment, the Shifter must increase the other skill used to meet the requirements for the Legacy to 3, or must attain two dots in a second skill from the list of possible requirements.\
+**Prerequisite:** Life 3. In addition to the Animal Ken 3 requirement from the previous Attainment, the Shifter must increase the other skill used to meet the requirements for the Legacy to 3, or must attain two dots in a second skill from the list of possible requirements.
+
 At this level the Shifter begins to experience what it is like to live in another’s skin. While they cannot take on the characteristics of animals or plants at this level, they can know what it is like to live in a body of a different sex, shape (though limited to bodies of the same physical age between size 4 and 6), level of physical fitness, general physical capability (e.g. correcting vision or inducing vision problems), or skin color; in addition they can redistribute up to their Life dots in physical attribute dots, though they cannot go below one dot in a physical attribute or above their Gnosis derived maximum. Changing size grants or removes the effects of the Small Framed or Giant merits as appropriate. Effecting this change requires an hour of meditation, but is permanent until reassigned. This attainment emulates the effects of Many Faces with reach assigned to Advanced Duration.
 
 ### **Fourth:** Protean Emergence
 
-**Prerequisite:** Life 4, Animal Ken 4 and the other Skill requirements of the previous Attainment.\
+**Prerequisite:** Life 4, Animal Ken 4 and the other Skill requirements of the previous Attainment.
+
 The Shifter’s primordial attunement is almost complete. With but a few seconds of thought the Shifter is able to grant themself a number of animal traits equal to their dots in Life for a scene. These traits can include a mongoose’s poison resistance, a bear’s claws, a plant’s photosynthesis, a gecko’s climbing ability, or any other trait found in living beings. A non-exhaustive list of options can be found on page 151 of the Mage: the Awakening 2nd Edition core book. This spell emulates Transform Life with reach assigned to Instant Casting and Advanced Duration.
 
 **Optional:** Matter 3\
@@ -59,6 +61,7 @@ The Shifter adds to the list of traits they can grant themself the properties of
 ### **Fifth:** Protean Mastery
 
 **Prerequisite:** Life 5. In addition to the Animal Ken 4 requirement from the previous Attainment, the Shifter must increase the other Skill she used to meet the requirements of the Legacy to 4, or must attain three dots in a second Skill from the list of possible requirements, or two dots in a third Skill from the list.
+
 At this point the Shifter’s form is unbound, with an instant action they can change into any lifeform they choose from a bacteria to a dolphin, and can remain in that form for as long as they choose. This spell emulates the effects of Shapechanging with reach assigned to Instant Casting and Advanced Duration.
 
 **Optional:** Matter 4
